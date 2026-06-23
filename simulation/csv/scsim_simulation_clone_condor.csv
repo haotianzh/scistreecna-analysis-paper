@@ -1,0 +1,11 @@
+dataset,index,method,metric,value
+50_4,0,copy_nj,tree_acc,0.1276595744680851
+50_4,0,dice,tree_acc,0.14893617021276595
+50_4,0,scistree2,tree_acc,0.3829787234042553
+50_4,0,cellphy,tree_acc,0.2978723404255319
+50_4,0,scistreec,tree_acc,0.44680851063829785
+50_4,0,condor,tree_acc,0.2553191489361702
+50_4,0,scistree2,geno_acc,0.986
+50_4,0,cellphy,geno_acc,0.8468
+50_4,0,scistreec,geno_acc,0.9884
+50_4,0,condor,geno_acc,0.9664
