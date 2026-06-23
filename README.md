@@ -1,4 +1,4 @@
-# ScisTree-CNA — Experiment Scripts
+# ScisTreeCNA — Experiment Scripts
 
 Scripts used to reproduce the results in our paper on **ScisTree-CNA** — joint
 single-cell phylogenetic inference from SNVs and copy-number alterations (CNAs),
